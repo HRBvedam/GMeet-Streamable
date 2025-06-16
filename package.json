@@ -15,7 +15,12 @@
     "next-auth": "^4.24.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-google-button": "^0.8.0"
+    "react-google-button": "^0.8.0",
+    "to-streamable": "^2.0.0",
+    "formidable": "^3.5.4",
+    "@emotion/react": "^11.14.0",
+    "@mui/material": "^7.1.1",
+    "@emotion/styled": "^11.14.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
