@@ -1,0 +1,28 @@
+{
+  "meetings": [
+    {
+      "id": "meeting-1",
+      "title": "Team Standup",
+      "description": "Daily team standup meeting",
+      "startTime": "2025-06-15T09:00:00",
+      "endTime": "2025-06-15T09:30:00",
+      "timeZone": "Asia/Kolkata"
+    },
+    {
+      "id": "meeting-2", 
+      "title": "Project Review",
+      "description": "Monthly project review and planning",
+      "startTime": "2025-06-15T14:00:00",
+      "endTime": "2025-06-15T15:00:00",
+      "timeZone": "Asia/Kolkata"
+    },
+    {
+      "id": "meeting-3",
+      "title": "Client Call",
+      "description": "Weekly client check-in call",
+      "startTime": "2025-06-16T11:00:00",
+      "endTime": "2025-06-16T12:00:00",
+      "timeZone": "Asia/Kolkata"
+    }
+  ]
+}
