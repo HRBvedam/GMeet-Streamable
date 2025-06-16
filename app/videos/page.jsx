@@ -17,7 +17,7 @@ const VideosPage = () => {
     setVideoData(null);
     setLoading(true);
     try {
-      const res = await fetch("/api/vidoes", {
+      const res = await fetch("/api/videos", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ shortcode, username, password }),
